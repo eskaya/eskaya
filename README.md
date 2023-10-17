@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 💫 I'm Esra.<br>🔭 I am a mobile application developer, I also contributed to the development of the frontend of web-based projects.<br>💬 You can contact me using the links below.<br><br>🌐 https://www.linkedin.com/in/esra-kaya-7959a7195/<br>📫 esra.kaya.5255@gmail.com<br> 🌱 https://gitlab.com/eskaya1
